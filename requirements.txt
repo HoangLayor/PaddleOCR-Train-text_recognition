@@ -1,0 +1,3 @@
+paddlepaddle-gpu 
+paddleocr>=2.0.1
+pyyaml
