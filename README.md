@@ -1,4 +1,4 @@
-# Train 
+# PaddleOCR training for text recognition
 
 ## Chuẩn bị môi trường
 ```
