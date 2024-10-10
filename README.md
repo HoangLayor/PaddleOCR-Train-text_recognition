@@ -15,7 +15,7 @@ PaddlePaddle works well on 1 GPU.
 PaddlePaddle is installed successfully! Let's start deep learning with PaddlePaddle now.
 ```
 
-```
+```python
 nvcc --version
 nvidia-smi
 ```
@@ -45,7 +45,7 @@ Thu Aug  8 05:30:38 2024
 |=======================================================================================|
 +---------------------------------------------------------------------------------------+
 ```
-```
+```python
 git clone https://github.com/PaddlePaddle/PaddleOCR.git
 ```
 
@@ -82,7 +82,7 @@ git clone https://github.com/PaddlePaddle/PaddleOCR.git
 
 ## Cấu hình 
 
-```
+```python
 Global:
   debug: false
   use_gpu: true
