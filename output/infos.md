@@ -1,3 +1,4 @@
+```
 └── output
     └── rec_ppocr_v3
         ├── best_accuracy
@@ -12,3 +13,4 @@
         ├── latest.pdparams
         ├── latest.states
         └── train.log
+```
