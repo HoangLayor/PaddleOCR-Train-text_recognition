@@ -1,3 +1,4 @@
+```
 └── models
     ├── en_PP-OCRv3_det_distill_train
     │   ├── best_accuracy.pdparams
@@ -15,3 +16,4 @@
         ├── inference.pdiparams
         ├── inference.pdiparams.info
         └── inference.pdmodel
+```
