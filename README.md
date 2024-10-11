@@ -237,3 +237,6 @@ ocr = PaddleOCR(use_angle_cls=True, lang='en', rec_model_dir=model_dir)
 
 result = ocr.ocr(img_path, cls=False)
 ```
+
+# 🌟 Reference:
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
