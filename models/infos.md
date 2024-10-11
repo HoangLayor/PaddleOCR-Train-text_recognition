@@ -17,3 +17,5 @@
         ├── inference.pdiparams.info
         └── inference.pdmodel
 ```
+
+[Model list](https://github.com/PaddlePaddle/PaddleOCR/blob/main/doc/doc_en/models_list_en.md?fbclid=IwY2xjawF1W7dleHRuA2FlbQIxMAABHcztUNGGgfd50nYgqjHNws8HuEMfgdo4RMQbZNXHAiK9eS5UhnrRsschng_aem_T7nU7HI2q0Wfp0Umu2bg9g)
